@@ -1,0 +1,6 @@
+Freestanding C/C++ Libs
+========================
+
+Headers and Libraries from GCC's libstdc++ and libgcc that can be used in a freestanding environment.
+
+Relevant licenses apply.
