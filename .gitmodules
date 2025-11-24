@@ -1,0 +1,3 @@
+[submodule "freestnd-cxx-hdrs"]
+	path = freestnd-cxx-hdrs
+	url = https://codeberg.org/OSDev/freestnd-cxx-hdrs.git
